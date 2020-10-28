@@ -5,5 +5,7 @@ public class Main {
         double f = 12;
 
         int d =12;
+
+     int c=30;
     }
 }
