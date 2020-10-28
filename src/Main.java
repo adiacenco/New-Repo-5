@@ -6,5 +6,9 @@ public class Main {
 
      int b=20;
 
+
+
+     double f =12;
+
     }
 }
