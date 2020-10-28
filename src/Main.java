@@ -10,5 +10,6 @@ public class Main {
 
      double f =12;
 
+     int h=10;
     }
 }
